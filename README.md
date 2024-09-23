@@ -4,6 +4,17 @@
 - 💞️ I’m looking to collaborate on Video Game Development
 - 📫 How to reach me sunupiousjoseph@gmail.com
 
+Games published on itch.io/dashboard:
+
+- Resilience: https://khangbui.itch.io/resilience
+    Role: Programmer
+  
+- Grudge Match: https://khangbui.itch.io/grudge-match
+    Role: Programmer
+  
+- Fighter Frenzy: https://yorgi11.itch.io/fighter-frenzy
+    Role: programmer/3d animator
+
 <!---
 sunujoseph/sunujoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
