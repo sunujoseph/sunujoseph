@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Video Game Development
 - 📫 How to reach me sunupiousjoseph@gmail.com
 
-Games published on itch.io:
+### Games published on itch.io:
 
 - Put Yourself In The Game 2D (Custom Animator)
     https://gdimcommunityactivities.itch.io/put-yourself-in-the-game-2d-gdim-activity-feb-21
@@ -23,7 +23,7 @@ Games published on itch.io:
 - Cyberrift: The Fractured Path: https://farhaniboii.itch.io/cyberrift-the-fractured-path 
     Role: Programmer/Game Design
 
-Capstone 2025
+### Capstone 2025
 Zumba-Game for Dementia Study.
 https://github.com/sunujoseph/Zumba-Game
 
